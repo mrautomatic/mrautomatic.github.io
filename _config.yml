@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+logo: /gear.png
+show_downloads: false
+favicon: /mrautomatic.github.io/favicon.ico
